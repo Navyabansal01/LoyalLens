@@ -156,6 +156,6 @@ To help businesses move beyond basic analytics and truly understand customer loy
 
 🚧 Active Development
 
-LoyalLens is currently being developed and improved feature by feature. New functionality will be added regularly as the platform evolves.
+
 
 LoyalLens is currently being developed and improved feature by feature. New functionality will be added regularly as the platform evolves.
