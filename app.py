@@ -62,8 +62,8 @@ if uploaded_file is not None:
 
     columns = list(df.columns)
 
-    st.write("## 📋 Available Columns")
-    st.write(columns)
+    # st.write("## 📋 Available Columns")
+    # st.write(columns)
 
     # ----------------------------------
     # SMART COLUMN DETECTION
