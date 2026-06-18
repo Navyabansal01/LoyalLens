@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+app_v*.py
+app11.py
+newapp11.py
